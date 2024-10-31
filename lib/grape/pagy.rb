@@ -4,7 +4,7 @@ require 'pagy/extras/arel'
 require 'pagy/extras/array'
 require 'pagy/extras/countless'
 require 'pagy/extras/headers'
-require 'pagy/extras/items'
+require 'pagy/extras/limit'
 require 'pagy/extras/overflow'
 
 module Grape
